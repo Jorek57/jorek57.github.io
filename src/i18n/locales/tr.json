@@ -1,0 +1,51 @@
+{
+  "locale": {
+    "tr": "Türkçe",
+    "en": "Ingilizce"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Hakkımızda",
+    "focus": "Experience",
+    "schedule": "Ders Programı"
+  },
+  "hero": {
+    "line1": "Biz Etcetera’yız.",
+    "line2": "Farklı stiller ve tekniklerde gelişiyoruz. Sporu bir kendini keşfetme ve beceri geliştirme aracı olarak değerlendiriyoruz."
+  },
+  "content": {
+    "pretitle": "KEŞFET",
+    "title1": "HAKKIMIZDA",
+    "text1": "Motivasyonumuz farklı geçmişlere sahip her seviye ve beceri düzeyindeki birey için destekleyici bir program sağlamak; hobi meraklılarından ileri düzey sporculara kadar herkesin güvenli bir ortamda keşfetmesine, öğrenmesine ve bağ kurmasına olanak tanıyoruz.",
+    "text2": "İster fiziksel kapasiteni veya kendini savunma becerilerini geliştirmek için burada ol,",
+    "text3": "ister yarışmak ve yeteneklerini test etmek için; herkese uygun bir seçeneğimiz var.",
+    "text4": "Tüm seviyelere uygun olarak düzenlediğimiz grup dersleri, workshoplar, open mat ve kamplarımızda bize katılmak, programlar, konum, 1:1 dersler ve üyelik hakkında daha fazla bilgi almak için 📩 {email} üzerinden bize ulaşabilirsin.",
+    "text5": "Seni ETCETERA’ya bekliyoruz.",
+    "title2": "NE YAPIYORUZ?",
+    "text6": "Kaldıraç, zamanlama ve problem çözme becerilerini geliştiren bir dövüş sporu olan Brazilian Jiu Jitsu yapıyoruz. Derslerimizde gi, no-gi ve self defense tekniklerinin tümünü kapsıyoruz.",
+    "text7": "Ex Animo House'da yer alan derslerimizde programımıza koşu, fonksiyonel kuvvet antrenmanı ve tırmanma gibi aktiviteleri entegre ederek hareketi daha geniş bir şekilde ele alıyoruz.",
+    "text8": "Katılımcıların aktif olarak yer aldığı, kendi deneyimleri ve ihtiyaçları doğrultusunda organize olmalarını sağlayan bir grassroots hareketi olarak, abartıya dayalı bir ortamda mükemmellik ve rekabetten çok, çaba ve kişisel gelişimi ön planda tutarak; derinlik, özgünlük ve beceri geliştirme konularına olan bağlılığımızla kendimizi ayırt ediyoruz.",
+    "text9": "İster teknik için burada ol, ister sınırlarını test etmek için, biz bitiş çizgisinden çok deneyimin araksından koşanlar için buradayız. Yolu sen seçiyorsun, araçları biz sağlıyoruz – gerisi, etc.",
+    "title3": "NEDEN YAPIYORUZ?",
+    "text10": "Etcetera’da, çeşitli stiller ve teknikler aracılığıyla sürekli öğrenmeyi teşvik eden bir kültür oluşturmayı kendimize görev edindik. Odak noktamız, üyelerimizin öğrenme yolculuklarının sorumluluğunu üstlenirken sürekli olarak gelişmelerini ve çok yönlü bireyler haline gelmelerini sağlamak.",
+    "text11": "Programımıza farklı disiplinleri dahil ederek ve farklı geçmişlere sahip bireylerle bağlantı kurarak, kişisel sorumluluğu ve ortak gelişimi teşvik eden bir aidiyet duygusu yaratmayı amaçlıyoruz.",
+    "text12": "Çünkü biz hikayenin sonu için değil; sonrasında gelen her adım için buradayız. Yolculuk sonsuz ve gerisi, etc."
+  },
+  "schedule": {
+    "pretitle": "NEREDE? ve NE ZAMAN?",
+    "title": "Ders Programı:",
+    "location": "Konum:",
+    "giclass": "Gi Dersi",
+    "hour1": "Perşembe 18:45h - 20:15h",
+    "hour2": "Cumartesi 12:00h - 13:15h"
+  },
+  "focus": {
+    "maintitle": "ETCETERA'da 3 önemli noktaya odaklanıyoruz:",
+    "title1": "Beceri Gelişimi:",
+    "text1": "Tekniği ve stratejiyi ön planda tutarak daha kapsamlı bir sporcu olmana yardımcı oluyoruz. Antrenmanlarımızı yüksek etkiye sahip metod ve beceriler arasındaki bağlantıya odaklanarak geliştiriyor, birlikte geçirdiğimiz süreyi en verimli şekilde programlıyoruz.",
+    "title2": "No-Bullshit:",
+    "text2": "Gereksiz ayrıntılar veya estetik kaygı odaklı dikkat dağıtıcı unsurları ortadan kaldırarak sonuçlara odaklanan, doğrudan ve dürüst yöntemler sunuyoruz. Antrenman hedefleri, beklentiler ve geri bildirimler hakkında net ve doğrudan iletişim kuruyoruz; bu da katılımcıların kavramları anlamasını ve bunları etkili bir şekilde uygulamasını mümkün kılıyor.",
+    "title3": "Topluluk Oluşturma:",
+    "text3": "Hem minderde hem de minder dışında farklı spor geçmişlerine sahip katılımcılarla kalıcı bağlar kuruyoruz. Kişisel sorumluluğu teşvik ediyor, bireylerin kendi gelişimlerinden ve aldığı sonuçlardan sorumlu olduğu bir kültürü destekliyoruz."
+  }
+}

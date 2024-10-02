@@ -1,0 +1,52 @@
+{
+  "locale": {
+    "tr": "Turkish",
+    "en": "English"
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About Us",
+    "focus": "Experience",
+    "schedule": "Schedule"
+  },
+  "hero": {
+    "line1": "We are Etcetera.",
+    "line2": "We improve in different styles, techniques and transitions. We celebrate sports as a means of self-exploration and skill-building."
+  },
+  "content": {
+    "pretitle": "DISCOVER",
+    "title1": "ABOUT US",
+    "text1": "Our motivation is to provide a supportive environment for practitioners with different backgrounds of all skill sets and levels, from hobbyists to advanced competitors; where everyone can discover, learn and connect in a safe environment.",
+    "text2": "Join us for classes, workshops, open mats and camps that cater to all skill levels.",
+    "text3": "Whether you're here to compete or just looking to improve your fitness and self-defense skills, we have something for everyone.",
+    "text4": "For more information about group classes, schedule, 1:1 training, location and membership you can contact us at 📩 {email}",
+    "text5": "We look forward to welcoming you at ETCETERA.",
+    "title2": "WHAT WE DO?",
+    "text6": "We train Brazilian Jiu Jitsu, a combat sport that teaches leverage, timing and problem-solving by encompassing techniques around gi, no-gi and self defense.",
+    "text7": "Situated at Ex Animo House, we integrate activities like running, functional strength training and climbing into our schedule that helps us approach movement in a broader form.",
+    "text8": "As a grassroots movement that is created by practitioners for practitioners, we distinguish ourselves by focusing on depth, authenticity, and a commitment to skill-building—with a clear look out placed on effort and personal journey instead of perfection and competition in a landscape that thrives on hype.",
+    "text9": "Whether you’re here for technique or to test your limits, we’re here for those who chase the experience over the finish line. You choose the path, we provide the tools – everything else is, well, etcetera.",
+    "title3": "WHY WE DO?",
+    "text10": "At Etcetera, we are dedicated to fostering a culture of continuous learning through diverse styles and techniques. Our focus empowers our members to continuously improve and develop into well-rounded individuals while taking ownership of their learning journey.",
+    "text11": "By incorporating different disciplines into our schedule and connecting with individuals from various backgrounds, we create a sense of belonging that encourages personal accountability and shared progress.",
+    "text12": "Because we’re not here for the end of the story; we’re here for every move that comes after. The journey is endless—and the rest is, etc."
+  },
+  "schedule": {
+    "pretitle": "Where and when?",
+    "title": "Schedule:",
+    "location": "Location:",
+    "giclass": "Gi Class",
+    "hour1": "Thursday 18h - 20h",
+    "hour2": "Saturday 14h - 16h"
+  },
+  "focus": {
+    "maintitle": "At ETCETERA, we focus on 3 main topics",
+    "title1": "Skill Development:",
+    "text1": "Emphasizing technique and strategy to help you become a well-rounded grappler. We develop our program by focusing on the connection between high-impact methods and skills, optimizing the time we spend together in the most efficient way.",
+    "title2": "No-Bullshit Approach:",
+    "text2": "Straightforward, honest, and pragmatic methods that focus on results without unnecessary fluff, aesthetic concerns or distractions. We provide clear and direct communication about training objectives, expectations, and feedback; allowing practitioners to grasp concepts and apply them effectively.",
+    "title3": "Community Building:",
+    "text3": "Building lasting bonds and connections both on and off the mat with people from different sports backgrounds. We encourage personal responsibility among trainees, promoting a culture where individuals are accountable for their progress and results."
+  }
+
+}
